@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'GerenciadordeSenhasAsun'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7A90A5095D65405FA5F31F52E19508B2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F090BA8CEA9F46F69072587AEEA93BD2 }}
